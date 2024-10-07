@@ -1,4 +1,3 @@
-Ronaldo Maia 2D 23/09/24
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
